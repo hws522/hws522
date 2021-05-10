@@ -5,5 +5,5 @@
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hws522&theme=nord_bright) -->
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hws522&theme=nord_bright)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hws522&theme=nord_bright)-->
 
