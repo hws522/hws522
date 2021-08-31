@@ -9,6 +9,6 @@
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hws522&theme=nord_bright)-->
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sraphic})](https://solved.ac/{sraphic})
+hws522](http://mazassumnida.wtf/api/v2/generate_badge?boj={sraphic})](https://solved.ac/{sraphic})
 
 
