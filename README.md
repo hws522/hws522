@@ -10,6 +10,6 @@
 
 <!-- [![commitcombo](http://commitcombo.com/get?user={hws522}&theme={Lake-mini-v2})](https://github.com/devxb/CommitCombo) -->
 
-[![readmeplants](https://readmeplants.com/get?name=hws522&planet=yellowMoon&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants)
+[![readmeplants](https://readmeplants.com/get?name=hws522&planet=yellowMoon&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=none)](https://github.com/devxb/readmeplants)
 
 
