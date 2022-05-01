@@ -8,7 +8,7 @@
 
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=2020%20~%20ING%20🖥✏&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20%20World!%20🖥✏&fontSize=70)
 
  <!-- [![readmeplants](https://readmeplants.com/get?name=hws522&planet=yellowMoon&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=none)](https://github.com/devxb/readmeplants) -->
 </div>
@@ -23,11 +23,11 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
 </div>
 <br>
-<div>
+<!-- <div>
   <img src="https://img.shields.io/badge/C++-CC2927?style=flat-square&logo=C++&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-</div>
-<br>
+</div> 
+<br> -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
