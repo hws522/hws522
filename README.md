@@ -40,10 +40,11 @@
 
 <br>
 
+ <!--
 <div>
   <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=Openlayers&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/ApexChart-008FFB?style=flat-square&logo=Atlassian&logoColor=white"/>&nbsp
-</div>
+</div> -->
 
  
  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer"/>
